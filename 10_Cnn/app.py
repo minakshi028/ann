@@ -1,3 +1,6 @@
+#pip install opencv-python numpy matplotlib ultralytics
+yolov3.weights file : https://data.pjreddie.com/files/yolov3.weights
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
